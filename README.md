@@ -82,7 +82,22 @@ visualpy install
 
    Click orange square button on the right side of the Jupyter Notebook menu.
 
+**3.4 Getting started with Google Colab**
 
+3.4.1. Install package from Chrome Web Store
+```
+Install Visual Python for Colab from chrome web store
+```
+
+3.4.2. Open Google Colab
+
+   Open Google Colab
+
+4.4.3. Activate 'Visual Python for Colab' by clicking icon
+
+   Click orange square button on the top-right bar of the chrome browser.
+   
+![image](https://github.com/aysannazarmohamady/visual_python/assets/30371881/bcf25fc1-a4d1-41da-ad20-55ea0e5395e2)
 
 
 

@@ -99,6 +99,9 @@ Install [Visual Python for Colab](https://chrome.google.com/webstore/detail/visu
    
 ![image](https://github.com/aysannazarmohamady/visual_python/assets/30371881/bcf25fc1-a4d1-41da-ad20-55ea0e5395e2)
 
+Your visual python is ready!
+![image](https://github.com/aysannazarmohamady/visual_python/assets/30371881/886e2699-1a23-4259-a72a-68f9072d8626)
+
 
 
 ***4.How do I do a complete data mining process with it?***

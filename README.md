@@ -43,15 +43,17 @@ Visual Python can be used in Google Colab (Is a cloud-based platform that allows
 
 By following these steps and utilizing the capabilities of Visual Python, users can effectively perform a complete data mining process. It is important to make informed decisions throughout the process and leverage the power of visualization to gain meaningful insights from the data.
 
-***How to install Visual Python as an extension***
+***3.How to install Visual Python as an extension***
 
 
 
-**Requirements**
+**3.1 Requirements**
 
 Visual Python is an extension to Jupyter Lab, Jupyter Notebook and Google Colab. 
 
 You must have one of these environment installed already.
 
+- Python version 3.x
+- Jupyter Lab(<=3.6.3) or Jupyter Notebook or Google Colab environment
 
 ***How do I do a complete data mining process with it?***

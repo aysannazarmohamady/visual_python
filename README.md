@@ -1,4 +1,4 @@
-# visual python
+# visual python (Introduction and method of using)
 
 
 ***1.what is visual python?***

@@ -63,5 +63,5 @@ You must have one of these environment installed already.
 pip install jupyterlab-visualpython
 ```
 - 3.2.2 Activate Visual Python on Jupyter Lab
-
+ Click orange square button on the right side of the Jupyter Lab menu.
 ***4.How do I do a complete data mining process with it?***

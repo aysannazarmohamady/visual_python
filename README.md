@@ -1,7 +1,7 @@
 # visual python
 
 
-***- what is visual python?***
+***1.what is visual python?***
 
 
 Visual Python (VPython) is a 3D graphics module for the Python programming language. 
@@ -13,13 +13,13 @@ It aims to provide a GUI-based Python code generator for Google Colab as an exte
 
 Visual Python is a programming language that allows users to create and manipulate visualizations of data using Python. It provides a set of libraries and tools that make it easier to create interactive visualizations and graphical user interfaces. By using Visual Python, users can represent complex data sets through visualizations such as graphs, charts, and diagrams. These visualizations can help in understanding patterns, trends, and relationships within the data.
 
-***- How to use Visual Python?***
+***2.How to use Visual Python?***
 
 
 Visual Python can be used in Google Colab (Is a cloud-based platform that allows users to write and execute Python code in a web browser. It provides a convenient environment for data analysis and machine learning tasks.) by installing the necessary libraries and importing them into the notebook. Once Visual Python is set up, users can create visualizations using the available functions and methods.
 
 
-To perform a complete data mining process using Visual Python, users can follow the following steps:
+**2.1 To perform a complete data mining process using Visual Python, users can follow the following steps:**
 
 
 Data Collection: Gather the relevant data from various sources such as databases, websites, or files.

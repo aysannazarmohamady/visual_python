@@ -12,3 +12,5 @@ It aims to provide a GUI-based Python code generator for Google Colab as an exte
 
 
 Visual Python is a programming language that allows users to create and manipulate visualizations of data using Python. It provides a set of libraries and tools that make it easier to create interactive visualizations and graphical user interfaces. By using Visual Python, users can represent complex data sets through visualizations such as graphs, charts, and diagrams. These visualizations can help in understanding patterns, trends, and relationships within the data.
+
+***How to use Visual Python?***

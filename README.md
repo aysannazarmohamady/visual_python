@@ -56,4 +56,12 @@ You must have one of these environment installed already.
 - Python version 3.x
 - Jupyter Lab(<=3.6.3) or Jupyter Notebook or Google Colab environment
 
-***How do I do a complete data mining process with it?***
+**3.2 Getting started with Jupyter Lab**
+
+- 3.2.1 Install package from PyPI
+```
+pip install jupyterlab-visualpython
+```
+- 3.2.2 Activate Visual Python on Jupyter Lab
+
+***4.How do I do a complete data mining process with it?***

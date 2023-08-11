@@ -85,9 +85,9 @@ visualpy install
 **3.4 Getting started with Google Colab**
 
 3.4.1. Install package from Chrome Web Store
-```
-Install Visual Python for Colab from chrome web store
-```
+
+Install [Visual Python for Colab](https://chrome.google.com/webstore/detail/visual-python-for-colab/ccmkpknjfagaldcgidgcipbpdipfopob)  from chrome web store
+
 
 3.4.2. Open Google Colab
 

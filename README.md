@@ -66,4 +66,25 @@ pip install jupyterlab-visualpython
  Click orange square button on the right side of the Jupyter Lab menu.
 
 
+**3.3 Getting started with Jupyter Notebook**
+ 
+- 3.3.1. Install package from
+```
+pip install visualpython
+```
+
+- 3.3.2 Enable the package
+```
+visualpy install
+```
+
+- 3.3.3 Activate Visual Python on Jupyter Notebook
+
+   Click orange square button on the right side of the Jupyter Notebook menu.
+
+
+
+
+
 ***4.How do I do a complete data mining process with it?***
+

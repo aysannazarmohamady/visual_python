@@ -91,7 +91,7 @@ Install [Visual Python for Colab](https://chrome.google.com/webstore/detail/visu
 
 3.4.2. Open Google Colab
 
-   Open Google Colab
+   Open [Google Colab](https://colab.research.google.com/)
 
 4.4.3. Activate 'Visual Python for Colab' by clicking icon
 
